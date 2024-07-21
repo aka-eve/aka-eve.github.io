@@ -1,8 +1,8 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: Archive
-description: "My archive"
+title: Sangyeop's Archive
+description: "Sangyeop's Archive"
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "https://aka-eve.github.io/" #important: start with /
 url: "https://aka-eve.github.io/"
@@ -51,15 +51,15 @@ address:
     - UNIST-gil, 50,
     - 44919, Ulsan,
     - Republic of Korea.
-email: aka.eve101@gmail.com
-tel: +34 8493-4893
+email: sangyeop377@gmail.com
+# tel: +34 8493-4893
 
 
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
 
 # Members information. Shown on About page.
 members:
-  - name: Mark Webber
+  - name: Jaejun Yoo
     position: CEO
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     img: team01.jpg
@@ -108,10 +108,10 @@ members:
 #     img: client04.png
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+about: "About."
 
 # Testimonial content. Shown on Home and About page.
 testimonial:
-    message: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
-    author: Marcel Newman
-    position: WEB DESIGNER - BLACKTIE.CO
+    message: "This is an archive created to supplement the limited capacity of my brain. It deals with computer vision and mostly covers topics related to generative models. In addition to the latest papers, it also includes essential foundational papers as well as mathematics and engineering based on books. Blog posts, excluding project-related content, are written in Korean."
+    author: Sangyeop Yeo
+    position: Combined Master's and Ph.D. Programs - Lab. of Advanced Imaging Tech.	at Ulsan National Institute of Science and Technology
