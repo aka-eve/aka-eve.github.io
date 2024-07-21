@@ -7,19 +7,19 @@ permalink: /contact/
 <div id="contactwrap"></div>
 
 <div class="container mtb">
-      <div class="col-lg-4">
-          <h4>Our Address</h4>
-          <div class="hline"></div>
-              <p>
-                  {% for line in site.address.first.lines %}
-                      {{ line }} <br>
-                  {% endfor %}
-              </p>
-              <p>
-                  Email: {{ site.email }}<br/>
-                  <!-- Tel: {{ site.tel }} -->
-              </p>
-              <p>If you have a question about me, you can freely ask me anytime..</p>
-      </div>
+      
+        <h4>Our Address</h4>
+        <div class="hline"></div>
+            <p>
+                {% for line in site.address.first.lines %}
+                    {{ line }} <br>
+                {% endfor %}
+            </p>
+            <p>
+                Email: {{ site.email }}<br/>
+                <!-- Tel: {{ site.tel }} -->
+            </p>
+            <p>If you have a question about me, you can freely ask me anytime..</p>
+    
 
 </div><!--/container -->
