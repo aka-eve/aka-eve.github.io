@@ -2,7 +2,7 @@
 
 # Site settings
 title: Archive
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "My archive"
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "https://aka-eve.github.io/" #important: start with /
 url: "https://aka-eve.github.io/"
@@ -48,10 +48,10 @@ social:
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines:
-    - Some Ave, 987,
-    - 23890, New York,
-    - United States.
-email: hello@solidtheme.com
+    - UNIST-gil, 50,
+    - 44919, Ulsan,
+    - Republic of Korea.
+email: aka.eve101@gmail.com
 tel: +34 8493-4893
 
 
